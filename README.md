@@ -18,8 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ddcq&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://raw.githubusercontent.com/ddcq/github-contrib/refs/heads/bot/refresh-contributions/contributions.svg">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ddcq&icon=4&color=0)](https://visitcount.itsvg.in)
